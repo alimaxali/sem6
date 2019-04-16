@@ -118,7 +118,7 @@ echo -e "$cyan|  [1] metasploit ⚔️|  $blue  [2] nmap 🌎| $purple  [3] dos 
 #echo -e "| $green            --------------------------------            |  "
 echo -e "$yellow|  [4]   ngrok 🌐  |  $red  [5] virus ☢️️|  $reset [6]   Termux 📟   |    "
 #echo "     "                                   
-echo -e "$purple|  [7] facebook   $blue      [8] Encrypt   $cyan [9] tool root  "$g" pro" |"
+echo -e "$purple|  [7] facebook   $blue      [8] Encrypt   $cyan [9] tool root "$g" pro|"
 echo -e " $green          --------------------------------------"
 
 echo -e "                     $red [$cyan"$cyan"1212$red]password" $g" pro"
